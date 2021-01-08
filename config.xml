@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>customField</name>
+	<displayName><![CDATA[customField]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Configurations générales du site customisable avec un fichier de config]]></description>
+	<author><![CDATA[Subskill]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

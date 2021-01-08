@@ -1,0 +1,131 @@
+{
+    "tabs": [
+        {
+            "key": "general",
+            "title": "Général",
+            "icon": "icon-cogs",
+            "fields": [
+                {
+                    "key": "contact_email",
+                    "label": "Email",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "wrapper": {
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": "Indiquez votre email de contact"
+                },
+                {
+                    "key": "contact_tel",
+                    "label": "Telephone",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "wrapper": {
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": "Indiquez votre numéro de télephone"
+                }
+            ]
+        },
+
+        {
+            "key": "api",
+            "title": "APIs",
+            "icon": "icon-cogs",
+            "fields": [
+                {
+                    "key": "google_map_token",
+                    "label": "GMAP Token",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "wrapper": {
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": ""
+                },
+                {
+                    "key": "google_analytics_token",
+                    "label": "GA Token",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "wrapper": {
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": ""
+                }
+            ]
+        },
+
+        {
+            "key": "social_network",
+            "title": "Réseaux sociaux",
+            "icon": "icon-cogs",
+            "fields": [
+                {
+                    "key": "facebook_account",
+                    "label": "Compte Facebook",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "wrapper": {
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": ""
+                },
+                {
+                    "key": "instagram_account",
+                    "label": "Compte Instagram",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "wrapper": {
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": ""
+                },
+                {
+                    "key": "linkedin_account",
+                    "label": "Compte Linkedin",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "wrapper": {
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": ""
+                },
+                {
+                    "key": "twitter_account",
+                    "label": "Compte Twitter",
+                    "type": "text",
+                    "instructions": "",
+                    "required": false,
+                    "wrapper": {
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": ""
+                }
+            ]
+        }
+    ]
+}
